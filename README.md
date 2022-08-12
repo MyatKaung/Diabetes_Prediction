@@ -2,6 +2,7 @@
 
 * **Goal**: In this project we are going to analyze the data given and build a classification model:
 
+- predict whether a person is diabetes or not with the help of Machine Learning
+- deploy machine learning model using Streamlit, Flask, Docker
 
-Facilitate the process of visa approvals.
-Recommend a suitable profile for the applicants for whom the visa should be certified or denied based on the drivers that significantly influence the case status
+This project is done as a part of Project of the Week at DataTalks.Club (https://github.com/DataTalksClub/project-of-the-week/edit/main/2022-08-14-frontend.md)
