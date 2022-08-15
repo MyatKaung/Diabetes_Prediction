@@ -8,4 +8,6 @@ This project is done as a part of [Project of the Week at DataTalks.Club](https:
 
 Dataset File Link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
 
+I have downloaded the trained model in pcikle format and after that, I created the virtual environment using anaconda navigator. Inside it, I installed streamlit, numpy, pandas, pickle libraries and write a python script to use streamlit web app. Then I have run the script using "streamlit run 'Deploy_ML/diabetes.py' ".
+
 I have finished streamlit app for diabetes prediction. I have attached the screenshot of streamlit app.
