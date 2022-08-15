@@ -7,3 +7,5 @@ In this project we are going to analyze the data given and build a classificatio
 This project is done as a part of [Project of the Week at DataTalks.Club](https://github.com/DataTalksClub/project-of-the-week/edit/main/2022-08-14-frontend.md)
 
 Dataset File Link: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
+I have finished streamlit app for diabetes prediction. I have attached the screenshot of streamlit app.
